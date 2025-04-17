@@ -27,9 +27,7 @@ For many resources, exact identical copies are not required and will not work.
 
 # Introducing Count Index 
 When using count, you can also make use of **count.index** which allows better flexibility.
-
 This attribute holds a distinct index number, starting from 0, that uniquely identifies each instance created by the count meta-arguments.
-
 Following representation shows each EC2 instance's resource address that contains the index.
 
 Within CLI output, you will be able to see the idex value of resources.
