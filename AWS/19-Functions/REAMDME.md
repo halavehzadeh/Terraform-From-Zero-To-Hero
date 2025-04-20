@@ -19,11 +19,8 @@ Functions are grouped into categories. Some of these include;
 | Function Categories| Function Available                        |
 |--------------------|-------------------------------------------|
 | Numeric Functions  |abs, ceil, floor, max, min                 |
-
 | String Functions   |  concat, replace, split, tolower, toupper |
-
 |Collection Functions| element,keys,length, merge, sort          |
-
 |FileSystem Functions| file, filebase64, dirname                 |
 
 
