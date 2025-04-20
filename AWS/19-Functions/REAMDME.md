@@ -12,3 +12,22 @@ Terraform Console provides an interactive environment specifically designed to t
 
 # Importance of File Function
 File functions can reduce the overall Terraform code size by loading contents from external sources during terraform operations.
+
+Terraform has wide variety of functions available to achieve different set od use-cases.
+Functions are grouped into categories. Some of these include;
+
+| Function Categories| Function Available                        |
+|--------------------|-------------------------------------------|
+| Numeric Functions  |abs, ceil, floor, max, min                 |
+|--------------------|------------------------------------------ |
+| String Functions   |  concat, replace, split, tolower, toupper |
+|--------------------|-------------------------------------------|
+|Collection Functions| element,keys,length, merge, sort          |
+|--------------------|-------------------------------------------|
+|FileSystem Functions| file, filebase64, dirname                 |
+|--------------------|-------------------------------------------|
+
+# Important Point of Note
+The terraform language **does not support user-defined functions**, and so only the functions built in to the language are available for use.
+
+[Terraform Function documents](https://developer.hashicorp.com/terraform/language/functions)
