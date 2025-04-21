@@ -27,7 +27,7 @@ Functions are grouped into categories. Some of these include;
 ## Important Point of Note
 The terraform language **does not support user-defined functions**, and so only the functions built in to the language are available for use.
 
-# Challenge -Analyzing code containning Functions
+## Challenge -Analyzing code containning Functions
 As part of this challenge , you will be given a code that conatins multiple sets of Terraform Functions.
 You have to analyze what this code does without running the "apply" operation.
 1- Analyze what exactly the given code in Github will do without running the "Apply operation".
