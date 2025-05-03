@@ -1,4 +1,4 @@
 # Introducing Data Sources
 Data sources allow Terraform to use /fetch information defined outside of Terraform.
 
-http://[text](https://imgur.com/URI1zxr)
+https://imgur.com/URI1zxr
