@@ -28,3 +28,8 @@ Following data source code is used to fetch detail about EC2 instance in your AW
 data "aws_instance" "example" {}
 
 ```
+
+## Finding available Data Source
+List of available datasource are associated with each resource of provider.
+
+![MY Image](images/Data_source_2.png)
