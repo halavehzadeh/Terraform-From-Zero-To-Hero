@@ -37,4 +37,4 @@ override.tf.json
 terraform.rc
 
 #project images
-images/*
+
