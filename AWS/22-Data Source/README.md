@@ -7,6 +7,6 @@ Data sources allow Terraform to use /fetch information defined outside of Terraf
 following data source code is used to get information on your Digital Ocean account.
 
 ```
-data "digitalocean_account" "example{}"
+data "digitalocean_account" "example"{}
 
 ```
