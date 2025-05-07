@@ -48,3 +48,31 @@ data "aws_instance" "example" {}
 Within the block body (between {and}) are query constraint defined by the data source.
 
 ![MY Image](images/Data_source_3.png)
+
+You have been given a requirement to write a Terraform code that creates EC2
+instance using latest image of Amazon Linux.
+Steps that we typically follow:
+1-GO to EC2 Console
+2-Fetch the latest AMI ID
+3-Add that AMI ID in Terraform code.
+
+![MY Image](images/Data_source_4.png)
+
+![MY Image](images/Data_source_5.png)
+
+Hardcoding static details in your Terraform code lead you to repeatedly modify your code to meat changing requirements.
+In many of the cases, the static value changes depending on the region.
+Example: AMI IDs are specific to region.
+Hardcoded AMI in code will only work for single region.
+
+![MY Image](images/Data_source_6.png)
+
+We want Terraform to automatically query latest OS image in AWS or any other provide and use that for creating server.
+We need code which works for all region without modification.
+
+![MY Image](images/Data_source_7.png)
+
+Data sources allow Terraform to use information defined outside of Terraform
+and we can use that information to provision resources.
+
+![MY Image](images/Data_source_8.png)
