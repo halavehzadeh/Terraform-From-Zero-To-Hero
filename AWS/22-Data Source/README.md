@@ -33,3 +33,18 @@ data "aws_instance" "example" {}
 List of available datasource are associated with each resource of provider.
 
 ![MY Image](images/Data_source_2.png)
+
+## Understanding the Basic Structure
+a data source is accessed via a special kind of resource known as a data resource, declared using a data block.
+
+Following data block requested that Terraform read from a given data source
+("data_instance) and exports the result under the given local name ("foo")
+
+```
+data "aws_instance" "example" {}
+
+```
+## Filter Structure
+Within the block body (between {and}) are query constraint defined by the data source.
+
+![MY Image](images/Data_source_3.png)
