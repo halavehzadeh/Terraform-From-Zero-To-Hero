@@ -24,3 +24,36 @@ export TF_LOG=[log level]
 export TF_LOG_PATH=terraform.log
 
 ```
+
+## Terraform Troubleshooting Model
+There are four potential types of issues that you could experience with Terraform.
++ Language
++ State
++ Core
++ Provider Errors
+
+![MY Image](images/troubleshoot-1.png)
+
+## Language Errors
+In most of the cases, the errors that you will face be related to this.
+when Terraform encounters a syntax error in your configuration, it prints out the line numbers and an explanation of the error.
+
+![MY Image](images/troubleshoot-2.png)
+
+## State Errors
+In state out of sync, Terraform may destroy or change your existing resources.
+if state locked, you will also be blocked from running write operations.
+
+![MY Image](images/troubleshoot-3.png)
+
+## Core errors
+These errors are directly related to the main Terraform application.
+Errors produced at this level may be bug.
+
+![MY Image](images/troubleshoot-4.png)
+
+## Provider errors
+These set of errors are primarily related to the provider plugins.
+Use the Provider GitHub page for reporting and identifying the issue.
+
+![MY Image](images/troubleshoot-5.png)
