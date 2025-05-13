@@ -57,3 +57,22 @@ These set of errors are primarily related to the provider plugins.
 Use the Provider GitHub page for reporting and identifying the issue.
 
 ![MY Image](images/troubleshoot-5.png)
+
+## Reporting Bugs
+You can report bugs in the terraform Core GitHub page or appropriate provider page.
+First, navigate to the Terraform GitHub repository and choose "Issues" from the top tabs.
+
+![MY Image](images/troubleshoot-6.png)
+
+Choose "New Issue".
+
+![MY Image](images/troubleshoot-7.png)
+
+Click "Get Started"
+
+![MY Image](images/troubleshoot-8.png)
+
+Fill Core Terraform Template
+
+![MY Image](images/troubleshoot-9.png)
+
