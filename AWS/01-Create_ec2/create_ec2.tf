@@ -5,8 +5,8 @@ provider "aws" {
   }
 
 resource "aws_instance" "FirstEC2" {
-  ami = "ami-0100e595e1cc1ff7f"
-  instance_type = "t2.medium"
+  ami = "ami-0953476d60561c955"
+  instance_type = "t2.micro"
    tags = {
     Name = "VM1"
     OS = "Ubuntu"
