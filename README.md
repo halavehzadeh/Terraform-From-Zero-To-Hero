@@ -22,5 +22,5 @@
 
 
 
-[PID1] <./AWS/01-Create_ec2/First-EC2.md>
-[PID31] <./AWS/31-Terraform_graph/terraform-graph.md>
+[PID1]: <./AWS/01-Create_ec2/First-EC2.md>
+[PID31]: <./AWS/31-Terraform_graph/terraform-graph.md>
