@@ -2,6 +2,7 @@
 |-------|---------------|
 |1 | [launch First Virtual machine through Terraform][PID1]|
 |7 | [Basic of Attributes][PID7]
+|22| [Data Source][PID22]|
 |23| [Debugging Terraform][PID23]|
 |24| [Tarrform Format][PID24]|
 |25| [Load Order][PID25]|
@@ -31,6 +32,7 @@
 
 [PID1]: <./AWS/01-Create_ec2/>
 [PID7]: <./AWS/07-Basic of Attributes/>
+[PID22]: <./AWS/22-Data Source>
 [PID23]: <./AWS/23-Debugging Terraform>
 [PID24]: <./AWS/24-Terraform format>
 [PID25]: <./AWS/25-Load Order/>
