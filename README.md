@@ -2,6 +2,8 @@
 |-------|---------------|
 |1 | [launch First Virtual machine through Terraform][PID1]|
 |7 | [Basic of Attributes][PID7]
+|19| [Functions][PID19]|
+|20| [Terraform Function Sample][PID20]|
 |21| [Local Values][PID21]|
 |22| [Data Source][PID22]|
 |23| [Debugging Terraform][PID23]|
@@ -33,6 +35,8 @@
 
 [PID1]: <./AWS/01-Create_ec2/>
 [PID7]: <./AWS/07-Basic of Attributes/>
+[PID19]: <./AWS/19-Functions>
+[PID20]: <./AWS/20-Terraform Functions sample>
 [PID21]: <./AWS/21-local Values>
 [PID22]: <./AWS/22-Data Source>
 [PID23]: <./AWS/23-Debugging Terraform>
