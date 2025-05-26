@@ -27,8 +27,8 @@
 
 
 [PID1]: <./AWS/01-Create_ec2/>
-[PID7]: <./AWS/07-Basic of Attributes/attributes.md>
-[PID27]: <./AWS/27-Dynamic Blocks/dynamic blocks.md>
-[PID29]: <./AWS/29-Terraform Taint/README.md>
-[PID30]: <./AWS/30-Splat Expression/splat.md>
-[PID31]: <./AWS/31-Terraform_graph/terraform-graph.md>
+[PID7]: <./AWS/07-Basic of Attributes/>
+[PID27]: <./AWS/27-Dynamic Blocks/>
+[PID29]: <./AWS/29-Terraform Taint/>
+[PID30]: <./AWS/30-Splat Expression/>
+[PID31]: <./AWS/31-Terraform_graph/>
