@@ -26,7 +26,7 @@
 
 
 
-[PID1]: <./AWS/01-Create_ec2/First-EC2.md>
+[PID1]: <./AWS/01-Create_ec2/>
 [PID7]: <./AWS/07-Basic of Attributes/attributes.md>
 [PID27]: <./AWS/27-Dynamic Blocks/dynamic blocks.md>
 [PID29]: <./AWS/29-Terraform Taint/README.md>
