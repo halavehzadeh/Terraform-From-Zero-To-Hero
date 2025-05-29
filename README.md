@@ -2,6 +2,8 @@
 |-------|---------------|
 |1 | [launch First Virtual machine through Terraform][PID1]|
 |7 | [Basic of Attributes][PID7]
+|17| [Count meta Argument][PID17]|
+|18| [Conditional Expression][PID18]|
 |19| [Functions][PID19]|
 |20| [Terraform Function Sample][PID20]|
 |21| [Local Values][PID21]|
@@ -35,6 +37,8 @@
 
 [PID1]: <./AWS/01-Create_ec2/>
 [PID7]: <./AWS/07-Basic of Attributes/>
+[PID17]: <./AWS/17-Count meta argument>
+[PID18]: <./AWS/18- Conditional Expression>
 [PID19]: <./AWS/19-Functions>
 [PID20]: <./AWS/20-Terraform Functions sample>
 [PID21]: <./AWS/21-local Values>
