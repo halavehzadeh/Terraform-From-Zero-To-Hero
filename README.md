@@ -37,7 +37,7 @@
 
 
 [PID1]: <./AWS/01-Create_ec2/>
-[PID7]: <./AWS/03-Elastic IP/>
+[PID3]: <./AWS/03-Elastic IP/>
 [PID7]: <./AWS/07-Basic of Attributes/>
 [PID17]: <./AWS/17-Count meta argument>
 [PID18]: <./AWS/18- Conditional Expression>
