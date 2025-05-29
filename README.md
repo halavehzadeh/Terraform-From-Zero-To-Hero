@@ -1,7 +1,7 @@
 | No | Document Link |
 |-------|---------------|
 |1 | [launch First Virtual machine through Terraform][PID1]|
-|3 | [Basic of Attributes][PID3]|
+|3 | [Elastic IP][PID3]|
 |7 | [Basic of Attributes][PID7]
 |17| [Count meta Argument][PID17]|
 |18| [Conditional Expression][PID18]|
