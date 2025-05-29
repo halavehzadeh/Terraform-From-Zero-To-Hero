@@ -1,6 +1,7 @@
 | No | Document Link |
 |-------|---------------|
 |1 | [launch First Virtual machine through Terraform][PID1]|
+|3 | [Elastic IP][PID3]|
 |7 | [Basic of Attributes][PID7]
 |17| [Count meta Argument][PID17]|
 |18| [Conditional Expression][PID18]|
@@ -36,6 +37,7 @@
 
 
 [PID1]: <./AWS/01-Create_ec2/>
+[PID3]: <./AWS/03-Elastic IP/>
 [PID7]: <./AWS/07-Basic of Attributes/>
 [PID17]: <./AWS/17-Count meta argument>
 [PID18]: <./AWS/18- Conditional Expression>
