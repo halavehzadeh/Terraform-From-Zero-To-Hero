@@ -3,6 +3,10 @@
 An Elastic IP address is a static IPv4 address in AWS.
 You can create it and associate it with EC2 instance.
 We are going to use Terraform to generate Elastic IP resource in AWS.
+
+
+
+
 ![MY Image](images/terraform-elsaticip-1.png)
 
 ## Documentation Referred:
