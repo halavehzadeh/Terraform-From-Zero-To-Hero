@@ -4,6 +4,7 @@
 |3 | [Elastic IP][PID3]|
 |4 | [Provider version][PID4]|
 |7 | [Basic of Attributes][PID7]
+|9 | [Terraform output][PID9]
 |17| [Count meta Argument][PID17]|
 |18| [Conditional Expression][PID18]|
 |19| [Functions][PID19]|
@@ -42,6 +43,7 @@
 [PID3]: <./AWS/03-Elastic IP/>
 [PID4]: <./AWS/04-Provider versioning/>
 [PID7]: <./AWS/07-Basic of Attributes/>
+[PID9]: <./AWS/09-Terraform output/>
 [PID17]: <./AWS/17-Count meta argument>
 [PID18]: <./AWS/18- Conditional Expression>
 [PID19]: <./AWS/19-Functions>
