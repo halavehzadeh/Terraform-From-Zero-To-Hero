@@ -16,6 +16,7 @@
 |29| [Terraform Taining][PID29]|
 |30| [Splat Experssion][PID30]|
 |31| [Terraform Graph][PID31]|
+|32| [Saving Terraform Plan to File][PID32]|
 
 
 
@@ -52,3 +53,4 @@
 [PID29]: <./AWS/29-Terraform Taint/>
 [PID30]: <./AWS/30-Splat Expression/>
 [PID31]: <./AWS/31-Terraform_graph/>
+[PID32]: <./AWS/32-Saving Terraform Plan to file/>
