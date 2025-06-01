@@ -40,8 +40,8 @@
 
 
 
-[PID1]: <./AWS/01-Create_ec2/>
-[PID3]: <./AWS/03-Elastic IP/>
+[PID1]: <./AWS/01-Create EC2/>
+[PID3]: <./AWS/03-Create Elastic IP/>
 [PID4]: <./AWS/04-Provider versioning/>
 [PID7]: <./AWS/07-Basic of Attributes/>
 [PID9]: <./AWS/09-Terraform output/>
