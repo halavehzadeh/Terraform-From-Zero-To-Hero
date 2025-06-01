@@ -1,7 +1,7 @@
 | No | Document Link |
 |-------|---------------|
-|1 | [launch First Virtual machine through Terraform][PID1]|
-|3 | [Elastic IP][PID3]|
+|1 | [Create EC2][PID1]|
+|3 | [Create Elastic IP][PID3]|
 |4 | [Provider version][PID4]|
 |7 | [Basic of Attributes][PID7]
 |9 | [Terraform output][PID9]
