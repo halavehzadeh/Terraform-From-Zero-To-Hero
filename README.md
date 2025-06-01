@@ -19,7 +19,7 @@
 |30| [Splat Experssion][PID30]|
 |31| [Terraform Graph][PID31]|
 |32| [Saving Terraform Plan to File][PID32]|
-|33| [Terraform setting][PID32]|
+|33| [Terraform setting][PID33]|
 
 
 
