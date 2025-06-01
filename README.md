@@ -3,7 +3,7 @@
 |1 | [Create EC2][PID1]|
 |3 | [Create Elastic IP][PID3]|
 |4 | [Provider version][PID4]|
-|5| [Create Security Group][PID4]|
+|5| [Create Security Group][PID5]|
 |7 | [Basic of Attributes][PID7]
 |9 | [Terraform output][PID9]
 |17| [Count meta Argument][PID17]|
