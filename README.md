@@ -19,6 +19,7 @@
 |30| [Splat Experssion][PID30]|
 |31| [Terraform Graph][PID31]|
 |32| [Saving Terraform Plan to File][PID32]|
+|33| [Terraform setting][PID32]|
 
 
 
@@ -58,3 +59,4 @@
 [PID30]: <./AWS/30-Splat Expression/>
 [PID31]: <./AWS/31-Terraform_graph/>
 [PID32]: <./AWS/32-Saving Terraform Plan to file/>
+[PID33]: <./AWS/33-Terraform setting/>
