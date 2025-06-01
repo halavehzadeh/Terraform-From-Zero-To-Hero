@@ -44,7 +44,7 @@
 [PID1]: <./AWS/01-Create EC2/>
 [PID3]: <./AWS/03-Create Elastic IP/>
 [PID4]: <./AWS/04-Provider versioning/>
-[PID4]: <./AWS/05-Create Security Group/>
+[PID5]: <./AWS/05-Create Security Group/>
 [PID7]: <./AWS/07-Basic of Attributes/>
 [PID9]: <./AWS/09-Terraform output/>
 [PID17]: <./AWS/17-Count meta argument>
