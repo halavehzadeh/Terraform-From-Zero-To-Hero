@@ -39,5 +39,14 @@ providers.
 To support this, Terraform lets you target specific resources when you plan,
 apply, or destroy your infrastructure.
 
-Targeting individual resources can be useful for troubleshooting errors, **but
-should not be part of your normal workflow.**
+Targeting individual resources can be useful for troubleshooting errors,
+<span style="color:red"> **but
+should not be part of your normal workflow.**</span>
+
+### Commands used
+
+```sh
+terraform plan -target local_file.foo
+terraform apply -target local_file.foo
+terraform destroy -target local_file.foo
+```
