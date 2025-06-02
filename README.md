@@ -21,6 +21,7 @@
 |31| [Terraform Graph][PID31]|
 |32| [Saving Terraform Plan to File][PID32]|
 |33| [Terraform setting][PID33]|
+|34| [Resource taregting][PID34]|
 
 
 
@@ -62,3 +63,4 @@
 [PID31]: <./AWS/31-Terraform_graph/>
 [PID32]: <./AWS/32-Saving Terraform Plan to file/>
 [PID33]: <./AWS/33-Terraform setting/>
+[PID33]: <./AWS/34-Resource Targeting/>
