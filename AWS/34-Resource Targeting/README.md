@@ -2,21 +2,21 @@
 In a typical Terraform workflow, you apply the entire plan at once. This is also the
 default behavior.
 
-![My Image](/images/tergeting1.png)
+![My Image](images/tergeting1.png)
 
 ## Understanding Resource Targeting
 
 Resource targeting in Terraform allows you to apply changes to a specific subset
 of resources rather than applying changes to your entire infrastructure.
 
-![My Image](/images/tergeting2.png)
+![My Image](images/tergeting2.png)
 
 ## Using the -target flag
 
 You can use Terraform's -target option to target specific resources, modules as
 part of operation.
 
-![My Image](/images/tergeting3.png)
+![My Image](images/tergeting3.png)
 
 ## Use-Cases
 
