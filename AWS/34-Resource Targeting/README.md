@@ -2,7 +2,7 @@
 In a typical Terraform workflow, you apply the entire plan at once. This is also the
 default behavior.
 
-![My Image](images/tergeting1.png)
+![MY Image](images/tergeting1.png)
 
 ## Understanding Resource Targeting
 
