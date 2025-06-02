@@ -3,6 +3,7 @@
 |1 | [Create EC2][PID1]|
 |3 | [Create Elastic IP][PID3]|
 |4 | [Provider version][PID4]|
+|5| [Create Security Group][PID5]|
 |7 | [Basic of Attributes][PID7]
 |9 | [Terraform output][PID9]
 |17| [Count meta Argument][PID17]|
@@ -43,6 +44,7 @@
 [PID1]: <./AWS/01-Create EC2/>
 [PID3]: <./AWS/03-Create Elastic IP/>
 [PID4]: <./AWS/04-Provider versioning/>
+[PID5]: <./AWS/05-Create Security Group/>
 [PID7]: <./AWS/07-Basic of Attributes/>
 [PID9]: <./AWS/09-Terraform output/>
 [PID17]: <./AWS/17-Count meta argument>
