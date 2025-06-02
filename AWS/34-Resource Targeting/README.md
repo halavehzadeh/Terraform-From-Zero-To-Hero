@@ -40,7 +40,7 @@ To support this, Terraform lets you target specific resources when you plan,
 apply, or destroy your infrastructure.
 
 Targeting individual resources can be useful for troubleshooting errors,
-<span style="color:red"> but should not be part of your normal workflow.</span>
+ **but should not be part of your normal workflow.**
 
 ### Commands used
 
