@@ -23,7 +23,7 @@
 |32| [Saving Terraform Plan to File][PID32]|
 |33| [Terraform setting][PID33]|
 |34| [Resource taregting][PID34]|
-
+|35| [API throttling][PID35]|
 
 
 
@@ -66,3 +66,4 @@
 [PID32]: <./AWS/32-Saving Terraform Plan to file/>
 [PID33]: <./AWS/33-Terraform setting/>
 [PID34]: <./AWS/34-Resource Targeting/>
+[PID35]: <./AWS/35-API throttling/>
