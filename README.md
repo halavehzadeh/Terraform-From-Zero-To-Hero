@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="assets/logo.svg" alt="Terraform Project Logo" width="520">
-</p>
 
+![My Image](./assets/logo.png)
 <h1 align="center"><strong><Project Name> — Terraform Infrastructure</strong></h1>
 
 <p align="center">
