@@ -64,7 +64,7 @@
 |34| [Resource taregting][PID34]|
 |35| [API throttling][PID35]|
 |36| [Zipmap][PID36]|
-
+|37| [Commnets][PID37]|
 
 
 
@@ -107,3 +107,4 @@
 [PID34]: <./AWS/34-Resource Targeting/>
 [PID35]: <./AWS/35-API throttling/>
 [PID36]: <./AWS/36-zipmap>
+[PID37]: <./AWS/37-Commnents>
