@@ -63,7 +63,7 @@
 |33| [Terraform setting][PID33]|
 |34| [Resource taregting][PID34]|
 |35| [API throttling][PID35]|
-
+|36| [Zipmap][PID36]|
 
 
 
@@ -106,3 +106,4 @@
 [PID33]: <./AWS/33-Terraform setting/>
 [PID34]: <./AWS/34-Resource Targeting/>
 [PID35]: <./AWS/35-API throttling/>
+[PID36]: <./AWS/36-Zipmap/>
