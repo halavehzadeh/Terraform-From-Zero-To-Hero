@@ -35,9 +35,11 @@
 
 ## 🧭 Repo layout
 
+| No | Terraform Basic |
+|-------|---------------|
 
 
-| No | Document Link |
+| No | Terafform in AWS  |
 |-------|---------------|
 |1 | [Create EC2][PID1]|
 |3 | [Create Elastic IP][PID3]|
