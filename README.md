@@ -66,8 +66,8 @@
 |36| [Zipmap][PID36]|
 |37| [Comments][PID37]|
 |38| [Meta argument][PID38]|
-
-
+|39| [Meta argument-lifeCycle][PID38]|
+|40| [Meta argument-create-befor][PID40]|
 
 
 
@@ -109,3 +109,5 @@
 [PID36]: <./AWS/36-zipmap>
 [PID37]: <./AWS/37-Comments>
 [PID38]: <./AWS/38-Meta argument>
+[PID39]: <./AWS/39-Meta-Argument - LifeCycle>
+[PID40]: <./AWS/40-LifeCycle Meta-Argument - Create before>
