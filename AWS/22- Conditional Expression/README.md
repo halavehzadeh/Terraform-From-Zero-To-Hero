@@ -1,5 +1,8 @@
 # Conditional Expression
 Conditional expressions in Terraform allow you to choose between two values based on a condition.
+
+![MY Image](images/image1.png)
+
 the syntax of a conditional expression is as follows:
  
  **Conditions? true_val:false_val**
@@ -11,6 +14,9 @@ the syntax of a conditional expression is as follows:
  If environment is Development "t2.micro" instance type should be used.
 
  If environment is not development, "m5.large" instance type should be use.
+
+
+ ![MY Image](images/image2.png)
 
  ```
  variable "environment" {
@@ -24,6 +30,9 @@ the syntax of a conditional expression is as follows:
 
  ```
  if the following example, only if env= production and region = us-east-1, the larger instance type of m5.large cab be used.
+ 
+![MY Image](images/image3.png)
+
 
  ```
  variable "environment" {
