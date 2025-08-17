@@ -25,6 +25,12 @@ you can also see output in json form (it is recommended  use "jq" for better out
 
 ![MY Image](images/savingplan3.png)
 
+## Use-Cases of Saving Plan to a File
+
+Many organizations require documented proof of planned changes before
+implementation.
+These changes will further be reviewed and approved.
+Running apply from plan ensures consistent desired outcome.
 
 ## more information and review
 

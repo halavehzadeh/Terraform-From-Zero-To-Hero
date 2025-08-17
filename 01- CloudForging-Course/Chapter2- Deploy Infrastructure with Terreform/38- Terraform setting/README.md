@@ -2,6 +2,8 @@
 We can use the provider block to define various aspects of the provider, like
 region, credentials and so on.
 
+![MY Image](images/image.png)
+
 In a Terraform project, your code might require a very specific set of versions to
 run.
 
