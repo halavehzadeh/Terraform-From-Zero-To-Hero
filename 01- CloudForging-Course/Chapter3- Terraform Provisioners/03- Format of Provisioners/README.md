@@ -18,5 +18,11 @@ Terraform to connect to remote server.
 
 ![MY Image](images/image4.png)
 
+## Documentation Referenced:
 
+https://www.terraform.io/language/resources/provisioners/remote-exec
+
+https://www.terraform.io/language/resources/provisioners/connection
+
+https://www.terraform.io/language/functions/file
 
