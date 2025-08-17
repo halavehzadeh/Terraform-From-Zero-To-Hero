@@ -52,6 +52,13 @@ Errors produced at this level may be bug.
 
 ![MY Image](images/troubleshoot-4.png)
 
+
+## Terraform Validate
+Terraform Validate primarily checks whether a configuration is syntactically valid.
+It can check various aspects including unsupported arguments, undeclared variables and others.
+
+![MY Image](images/Terraform_validate_1.png)
+
 ## Provider errors
 These set of errors are primarily related to the provider plugins.
 Use the Provider GitHub page for reporting and identifying the issue.
