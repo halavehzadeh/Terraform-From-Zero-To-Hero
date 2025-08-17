@@ -24,9 +24,9 @@ It is important to have a structure of attributes allowed as part of the object.
 
 ## Keep in Mind the Syntax
 
-object(...): a collection of named attributes that each have their own type.
-The schema for object types is { <KEY> = <TYPE>, <KEY> = <TYPE>, ... } — a
-pair of curly braces containing a comma-separated series of <KEY> = <TYPE>
+Obejct a collection of named attributes that each have their own type.
+The schema for object types is { KEY = TYPE, KEY = TYPE, ... } — a
+pair of curly braces containing a comma-separated series of KEY = TYPE
 pairs.Extra attributes are discarded during type conversion.
 
 ## Example - Extra Attributes Provided
