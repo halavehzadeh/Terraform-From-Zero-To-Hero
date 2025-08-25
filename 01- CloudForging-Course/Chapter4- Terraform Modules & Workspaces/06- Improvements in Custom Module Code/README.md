@@ -99,3 +99,17 @@ values associated with arguments are not hardcoded and variables are used
 extensively.
 
 ![MY Image](images/image8.png)
+
+## Root Module
+
+Root Module resides in the main working directory of your Terraform
+configuration. This is the entry point for your infrastructure definition.
+
+![MY Image](images/image9.png)
+
+## Child Module
+
+A module that has been called by another module is often referred to as a child
+module.
+
+![MY Image](images/image10.png)
