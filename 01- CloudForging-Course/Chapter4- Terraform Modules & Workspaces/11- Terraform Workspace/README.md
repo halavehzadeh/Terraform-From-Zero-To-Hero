@@ -23,3 +23,15 @@ Depending on the workspace being used, the value to a specific argument in
 your Terraform code can also change.
 
 ![MY Image](images/image4.png)
+
+## Terraform Workspace commands:
+
+```
+terraform workspace
+terraform workspace show
+terraform workspace new dev
+terraform workspace new prod
+terraform workspace list
+terraform workspace select dev
+
+```
