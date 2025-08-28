@@ -57,3 +57,4 @@ The terraform state replace-provider command is used to replace the provider
 for resources in a Terraform state.
 
 ![MY Image](images/image8.png)
+
