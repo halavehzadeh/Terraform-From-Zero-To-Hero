@@ -42,3 +42,13 @@ Various providers like AWS will automatically considers the password argument
 for any database instance as sensitive and will redact it as a sensitive value
 
 ![My Image](images/image6.png)
+
+
+# Documentation Referenced:
+
+
+https://registry.terraform.io/providers/hashicorp/local/latest/docs/resources/file
+
+https://registry.terraform.io/providers/hashicorp/local/latest/docs/resources/sensitive_file
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/db_instance
