@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><strong><Project Name> — Terraform Infrastructure</strong></h1>
+<h1 align="center"><strong><Project Name> Terraform Infrastructure</strong></h1>
 
 <p align="center">
   <a href="https://www.terraform.io/">Terraform</a> enables Infrastructure as Code (IaC) so you can define, version, and automate cloud resources safely and repeatably.
