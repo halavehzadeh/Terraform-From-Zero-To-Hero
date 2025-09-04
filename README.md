@@ -9,7 +9,6 @@
 <p align="center">
   <a href="#"><img alt="License" src="https://img.shields.io/badge/license-MIT-6A00FF"></a>
   <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-%3E%3D%201.6-5B20FF"></a>
-  <a href="#"><img alt="CI" src="https://img.shields.io/badge/CI-GitHub%20Actions-active-9C5CFF"></a>
 </p>
 
 ---
