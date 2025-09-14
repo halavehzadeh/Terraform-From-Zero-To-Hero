@@ -8,10 +8,7 @@ Welcome to the Terraform repository! This repository contains infrastructure as 
 
 ## 📌 What this repo contains
 
-- **Reusable modules** under `modules/` for <clouds/providers, e.g., AWS VPC, Azure RG, GCP networks>.
-- **Environment stacks** under `envs/` (e.g., `dev`, `prod`) using the modules.
-- **Remote state** configuration and recommended workflow (init → plan → apply).
-- Optional **pre-commit hooks** for formatting and validation.
+
 
 ---
 
@@ -26,3 +23,28 @@ Welcome to the Terraform repository! This repository contains infrastructure as 
 ---
 
 
+---
+
+# Course-Document Mapper
+
+| Sr No | Document Link |
+| ------ | ------ |
+| 1 | [Chapter1-Understand the basics of Terraform][PlDa] |
+| 2 | [Chapter2- Deploy Infrastructure with Terreform][PlDb] |
+| 3 | [Chapter3- Terraform Provisioners][PlDc] |
+| 4 | [Chapter4- Terraform Modules & Workspaces][PlDd] |
+| 5 | [Chapter5- Remote State Management][PlDe] |
+| 6 | [Terraform Provider Versioning][PlDf] |
+| 7 | [Chapter6- Security Primer][PlDg] |
+| 8 | [Chapter7- Terraform Cloud Enterprise][PlDh] |
+
+
+   [PlDa]: <./Chapter1-Understand the basics of Terraform/README.md>
+   [PlDb]: <./resource-providers.md>   
+   [PlDc]: <./provider-tiers.md>
+   [PlDd]: <./github.md>
+   [PlDe]: <./destroy.md>   
+   [PlDf]: <./provider-versioning.md>
+   [PlDg]: <./refresh.tf>
+   [PlDh]: <./aws-provider-auth.md>
+   
