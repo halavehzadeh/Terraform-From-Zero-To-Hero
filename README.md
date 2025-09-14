@@ -34,17 +34,17 @@ Welcome to the Terraform repository! This repository contains infrastructure as 
 | 3 | [Chapter3- Terraform Provisioners][PlDc] |
 | 4 | [Chapter4- Terraform Modules & Workspaces][PlDd] |
 | 5 | [Chapter5- Remote State Management][PlDe] |
-| 6 | [Terraform Provider Versioning][PlDf] |
-| 7 | [Chapter6- Security Primer][PlDg] |
-| 8 | [Chapter7- Terraform Cloud Enterprise][PlDh] |
+| 6 | [Chapter6- Terraform Provider Versioning][PlDf] |
+| 7 | [Chapter7- Security Primer][PlDg] |
+| 8 | [Chapter8- Terraform Cloud Enterprise][PlDh] |
 
 
    [PlDa]: <./Chapter1-Understand the basics of Terraform/>
-   [PlDb]: <./resource-providers.md>   
-   [PlDc]: <./provider-tiers.md>
-   [PlDd]: <./github.md>
-   [PlDe]: <./destroy.md>   
-   [PlDf]: <./provider-versioning.md>
-   [PlDg]: <./refresh.tf>
-   [PlDh]: <./aws-provider-auth.md>
+   [PlDb]: <./Chapter2- Deploy Infrastructure with Terreform/>   
+   [PlDc]: <./Chapter3- Terraform Provisioners/>
+   [PlDd]: <./Chapter4- Terraform Modules & Workspaces.md/>
+   [PlDe]: <./Chapter5- Remote State Management/>   
+   [PlDf]: <./Chapter6- Terraform Provider Versioning/>
+   [PlDg]: <./Chapter7- Security Primer/>
+   [PlDh]: <./Chapter8- Terraform Cloud Enterprise/>
    
