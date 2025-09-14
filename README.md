@@ -39,7 +39,7 @@ Welcome to the Terraform repository! This repository contains infrastructure as 
 | 8 | [Chapter7- Terraform Cloud Enterprise][PlDh] |
 
 
-   [PlDa]: <./Chapter1-Understand the basics of Terraform/README.md>
+   [PlDa]: <./Chapter1-Understand the basics of Terraform/>
    [PlDb]: <./resource-providers.md>   
    [PlDc]: <./provider-tiers.md>
    [PlDd]: <./github.md>
