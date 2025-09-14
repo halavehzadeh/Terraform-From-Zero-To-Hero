@@ -1,14 +1,24 @@
 
 
-<h1 align="center"><strong><Project Name> Terraform Infrastructure</strong></h1>
-
 <p align="center">
-  <a href="https://www.terraform.io/">Terraform</a> enables Infrastructure as Code (IaC) so you can define, version, and automate cloud resources safely and repeatably.
+<a href="https://www.terraform.io/" target="blank">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/hashicorp/terraform-website-assets/master/public/images/logo-text-sig-color.svg" width="400" alt="Terraform Logo" />
+</a>
 </p>
 
+<h1 align="center">Terraform Project Title</h1>
+
 <p align="center">
-  <a href="#"><img alt="License" src="https://img.shields.io/badge/license-MIT-6A00FF"></a>
-  <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-%3E%3D%201.6-5B20FF"></a>
+A brief one-sentence description of what this Terraform project does.
+<br />
+<a href="https://www.google.com/search?q=%23about-the-project"><strong>Explore the docs »</strong></a>
+<br />
+<br />
+<a href="#">View Demo</a>
+·
+<a href="https://www.google.com/search?q=https://github.com/your-username/your-repo/issues">Report Bug</a>
+·
+<a href="https://www.google.com/search?q=https://github.com/your-username/your-repo/issues">Request Feature</a>
 </p>
 
 ---
