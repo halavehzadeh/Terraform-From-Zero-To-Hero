@@ -29,7 +29,7 @@ Welcome to the Terraform repository! This repository contains infrastructure as 
 
 | Sr No | Document Link |
 | ------ | ------ |
-| 1 | [Chapter1-Understand the basics of Terraform][PIDa] |
+| 1 | [Chapter1-Understand the basics of Terraform][P1Da] |
 | 2 | [Chapter2- Deploy Infrastructure with Terreform][PlDb] |
 | 3 | [Chapter3- Terraform Provisioners][PlDc] |
 | 4 | [Chapter4- Terraform Modules & Workspaces][PlDd] |
